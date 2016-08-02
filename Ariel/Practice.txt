@@ -1,0 +1,12 @@
+1. What is ruby?
+	Ruby is a programming lenguaje of scripts, It is based on Object Oriented Program.
+
+2. What pros/cons you considered from the point explained in the class
+	Pros: -No more import files or/and classes to be used
+	- Many code already created to implement the options that you nedd
+	Cons: -You should define the guideline of your own code according the
+	rules defined in the team
+
+3. According what we talked today, what are the 3 testing tiers?
+	According what we talked yesterday, the 3 testing tiers are Services
+	Backend and UI testing
