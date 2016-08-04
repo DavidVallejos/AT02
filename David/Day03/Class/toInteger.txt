@@ -1,0 +1,26 @@
+# Managing to_i
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby toInteger.rb
+Give me a number 32
+A bigger number is : 3200
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby toInteger.rb
+Give me a number letra
+A bigger number is : 0
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby toInteger.rb
+Give me a number 312letras
+A bigger number is : 31200
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby toInteger.rb
+Give me a number letras231
+A bigger number is : 0
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby toInteger.rb
+Give me a number 23as
+toInteger.rb:3:in `+': no implicit conversion of Fixnum into String (TypeError)
+        from toInteger.rb:3:in `<main>'
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby toInteger.rb
+Give me a number 23as
+A bigger number is : 23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as23as

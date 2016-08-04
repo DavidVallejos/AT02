@@ -1,0 +1,14 @@
+# imput gets
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby rubyimputs.rb
+What is your name?
+david
+Hi david
+!! How are you today?
+
+# With imput gets.chomp
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby rubyimputs.rb
+What is your name?
+david
+Hi david!! How are you today?

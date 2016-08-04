@@ -1,0 +1,7 @@
+# Ruby class with two methods
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby instanceClass2.rb
+Put a number for area: 32
+The area of circle is: 201.06192982974676
+Put a number for perimeter: 54
+The perimeter of a circle is: 9160.884177867836

@@ -1,0 +1,17 @@
+# Managing to_f
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day03\Task>ruby toFloat.rb
+Give me a number: 32
+The floating number is: 32.0
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day03\Task>ruby toFloat.rb
+Give me a number: leter54
+The floating number is: 0.0
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day03\Task>ruby toFloat.rb
+Give me a number: 54leter
+The floating number is: 54.0
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day03\Task>ruby toFloat.rb
+Give me a number: number
+The floating number is: 0.0

@@ -1,0 +1,8 @@
+# Ruby Class with a method that ask by prompt
+# Ruby Class with a method that calculate a age in minutes
+# this age is a parameter of the first Ruby Class
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day03\Task>ruby practice3day3.rb
+Insert your name: Dav
+Insert your age: 43
+You have a: 22600800 minutes

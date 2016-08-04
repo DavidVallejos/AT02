@@ -1,0 +1,4 @@
+# Ruby Class
+
+C:\Users\ArielVallejos\Documents\Day03copy\Class>ruby instanceClass.rb
+My first instance method
