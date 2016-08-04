@@ -1,4 +1,0 @@
-$ ruby SecondsPractice.rb
-Los segundos 956987 son 15949 minutos
-Los segundos 956987 son 265 horas
-Los segundos 956987 son 11 dias

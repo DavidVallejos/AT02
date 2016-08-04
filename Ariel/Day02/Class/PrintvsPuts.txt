@@ -1,5 +1,0 @@
-$ ruby PrintvsPuts.rb
-Primera
-Primera
-Primera
-SegundaSegunda
