@@ -1,0 +1,3 @@
+#Getters and Setters in Ruby
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day05\Class>ruby setAndGet.rb
+You have 1: radio

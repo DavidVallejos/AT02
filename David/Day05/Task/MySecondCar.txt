@@ -1,0 +1,10 @@
+# New script with attributes accessors
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day05\Task>ruby MySecondCar.rb
+You accelerate to  25 K/h.
+You break your car 0
+Car is Off 0
+Introduzca el Color
+Azul Marino Mar
+Su nuevo color de auto es: Azul Marino Mar
+The year of your car is: 2016

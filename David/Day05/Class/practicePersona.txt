@@ -1,0 +1,4 @@
+#atrributes reader, writter and accessor
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day05\Class>ruby practicePersona.rb
+Hi, Karime
