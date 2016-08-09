@@ -1,0 +1,40 @@
+	Code Guideline
+
++Variables
+	Numbers	| Integer, Float | iVar = 1, fVar = 1.0
+	Strings | Strings	 | sVar = "String"
+	Arrays	| Arrays	 | aVar = []
+
++Classes
+	Class	| Simple	 | class Example 
+				 |	... 
+				 | end
+
+	Class	| Compose	 | class the_Second_Example
+				 |	 ... 
+				 | end
+
++Methods
+	Method	| Use Parenthesis| def call_celphone(number)
+				 | 	print "You are calling to #{number}"
+				 | end
+				 | call_celphone(7845123)
+
+	Method	| Return Values  | def addition(a,b)
+				 | 	a + b
+				 | end
+				 | puts addition(2,2)
+
++Variable Getter/Setter
+	Getter	| Use attr_reader  | attr_reader :item, item2 ...
+	Setter	| Use attr_writer  | attr_writer :item, item2 ...
+	Accessor| Use attr_accessor| attr_accessor :item, item2 ...
+
++If condition
+	if expression | Use result if condition | a = 1
+						| puts a = 10 if a < 20
+	if expression | Use result unless condition | b = 10
+						    | puts b = 0 unless a == 20
+	Short if      | Use result = (condition) ? (expression-if-true) : (expression-if-false)	| a = 30
+												| result = a == 4? a = 7 : a=10
+	
