@@ -1,0 +1,10 @@
+# practice ruby where I call a block with parameters
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day07\Task>ruby parametersBlock.rb
+Introduce Name:
+david
+Introduce your year of born:
+1988
+Your name: david
+Age calculate on block
+You are: 28
