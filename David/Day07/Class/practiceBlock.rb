@@ -1,6 +1,6 @@
 def method_block
 	result = 0
-	yield
+	result = yield
 	puts "The value obtained is #{result}"
 end
 
@@ -11,4 +11,4 @@ method_block do
 		puts "I changed the value into the block"
    end
 
-method_block {result = 15 / 25}
+method_block {result = 50 / 25}

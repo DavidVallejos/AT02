@@ -1,0 +1,9 @@
+# Libraries in Ruby
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day08\Taks>ruby practiceRubyLibrary.rb
+Hi Friend
+Good Night
+Good Afternoon
+Good Bye
+See you later
+Take care
