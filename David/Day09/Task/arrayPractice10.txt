@@ -1,0 +1,48 @@
+# Practice of ruby arrays
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day09\Task>ruby arrayPractice10.rb
+How many values do you want?
+5
+Introduce a number:
+1
+Introduce a number:
+2
+Introduce a number:
+3
+Introduce a number:
+4
+Introduce a number:
+5
+Introduce a leters:
+a
+Introduce a leters:
+b
+Introduce a leters:
+c
+Introduce a leters:
+d
+Introduce a leters:
+e
+Introduce numbers and leters:
+1
+Introduce numbers and leters:
+a
+Introduce numbers and leters:
+b
+Introduce numbers and leters:
+c
+Introduce numbers and leters:
+6
+[1, 2, 3, 4, 5]
+["a", "b", "c", "d", "e"]
+["1", "a", "b", "c", "6"]
+Elements in common of tow arrays ["a", "b", "c"]
+Pop element of Array1 = "e"
+Pop element of Array2 = "6"
+Shift element of Array1 = "a"
+Shift element of Array2 = "1"
+Los arrays numberA y leterA:
+[1, 2, 3, 4, 5]
+["b", "c", "d"]
+First element of numberA and Last element of leterA
+[1, "d"]
