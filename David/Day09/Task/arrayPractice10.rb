@@ -19,6 +19,7 @@ class Mix_Array
 		cant.times do
 			puts "Introduce numbers and leters:"
 			value = gets.chomp
+			#value = value.to_i if value.to_i == 0 : value
 			aMix.push(value)
 		end
 		return aNumber, aLeter, aMix

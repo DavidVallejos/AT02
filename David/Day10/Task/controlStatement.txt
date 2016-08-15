@@ -1,0 +1,16 @@
+# Class that is going to recieve name and age, then interact with age
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day10\Task>ruby controlStatement.rb
+Put your name
+David
+Put your age
+15
+David your year in hours is : 21600
+You are young
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day10\Task>ruby controlStatement.rb
+Put your name
+Evito
+Put your age
+44
+Your age cannot be calculate

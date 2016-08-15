@@ -1,0 +1,22 @@
+# Practice Hash from day 10
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day10\Class>ruby practiceHash.rb
+How many values do you want?
+2
+Introduce a Key:
+1
+Introduce a Value:
+sadqw
+Introduce a Key:
+2
+Introduce a Value:
+saew
+["1", "2"]
+["sadqw", "saew"]
+{"1"=>"sadqw", "2"=>"saew"}
+A key that you wanna see
+2
+true
+A value that wanna see
+uy
+false
