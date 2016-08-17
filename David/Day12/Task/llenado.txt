@@ -1,0 +1,100 @@
+User_ 69 | Pass_19 | 11/21/776 | OruroUser_ 33 | Pass_51 | 1/2/1594 | PandoUser_ 92 | Pass_48 | 2/14/107 | PandoUser_ 27 | Pass_32 | 12/12/1476 | PandoUser_ 1 | Pass_34 | 1/28/208 | SucreUser_ 72 | Pass_77 | 11/15/271 | BeniUser_ 2 | Pass_97 | 8/5/476 | PotosiUser_ 75 | Pass_97 | 1/11/155 | La PazUser_ 76 | Pass_45 | 1/21/1377 | Santa CruzUser_ 71 | Pass_23 | 8/15/901 | CBBAUser_ 19 | Pass_9 | 10/13/1330 | TarijaUser_ 30 | Pass_26 | 4/17/836 | PotosiUser_ 78 | Pass_100 | 7/10/492 | La PazUser_ 84 | Pass_22 | 1/15/706 | BeniUser_ 94 | Pass_68 | 4/11/2033 | La PazUser_ 57 | Pass_57 | 6/1/163 | OruroUser_ 84 | Pass_89 | 8/27/921 | TarijaUser_ 72 | Pass_31 | 4/28/1859 | BeniUser_ 54 | Pass_38 | 7/25/358 | La PazUser_ 96 | Pass_83 | 8/22/1507 | TarijaUser_ 10 | Pass_84 | 3/23/1029 | PandoUser_ 95 | Pass_80 | 5/12/1259 | CBBAUser_ 93 | Pass_34 | 10/11/262 | SucreUser_ 2 | Pass_83 | 4/21/1276 | CBBAUser_ 87 | Pass_71 | 6/1/343 | OruroUser_ 28 | Pass_7 | 6/18/1664 | SucreUser_ 33 | Pass_8 | 1/21/1798 | SucreUser_ 23 | Pass_1 | 7/27/192 | PotosiUser_ 13 | Pass_7 | 12/11/1510 | TarijaUser_ 95 | Pass_41 | 9/10/1733 | CBBAUser_ 71 | Pass_26 | 5/21/1220 | TarijaUser_ 7 | Pass_27 | 5/9/857 | Santa CruzUser_ 34 | Pass_37 | 2/17/670 | PotosiUser_ 64 | Pass_10 | 3/11/633 | Santa CruzUser_ 28 | Pass_58 | 1/2/1826 | CBBAUser_ 77 | Pass_93 | 3/7/1260 | PotosiUser_ 81 | Pass_27 | 10/15/1881 | SucreUser_ 55 | Pass_54 | 4/20/1500 | PandoUser_ 11 | Pass_23 | 12/21/789 | Santa CruzUser_ 57 | Pass_33 | 2/20/1921 | SucreUser_ 43 | Pass_47 | 11/2/1524 | PandoUser_ 68 | Pass_60 | 6/25/1403 | TarijaUser_ 99 | Pass_78 | 9/13/719 | SucreUser_ 78 | Pass_74 | 7/20/39 | SucreUser_ 31 | Pass_99 | 1/12/1552 | PotosiUser_ 66 | Pass_37 | 3/1/1080 | CBBAUser_ 22 | Pass_8 | 12/5/1951 | BeniUser_ 6 | Pass_44 | 3/7/1970 | PandoUser_ 47 | Pass_59 | 10/13/188 | OruroUser_ 8 | Pass_11 | 10/17/610 | PandoUser_ 100 | Pass_54 | 7/20/796 | OruroUser_ 65 | Pass_43 | 9/23/1702 | TarijaUser_ 80 | Pass_68 | 1/6/928 | BeniUser_ 43 | Pass_20 | 8/14/364 | SucreUser_ 2 | Pass_93 | 3/13/75 | Santa CruzUser_ 91 | Pass_8 | 4/3/558 | Santa CruzUser_ 82 | Pass_61 | 11/20/948 | PotosiUser_ 41 | Pass_10 | 1/4/1809 | PotosiUser_ 53 | Pass_82 | 2/19/313 | Santa CruzUser_ 91 | Pass_52 | 6/8/1468 | CBBAUser_ 56 | Pass_2 | 4/11/660 | PotosiUser_ 35 | Pass_47 | 3/16/1241 | TarijaUser_ 33 | Pass_53 | 5/18/1512 | CBBAUser_ 78 | Pass_58 | 10/6/548 | BeniUser_ 76 | Pass_83 | 11/11/330 | TarijaUser_ 26 | Pass_75 | 11/1/51 | PotosiUser_ 42 | Pass_62 | 12/26/722 | La PazUser_ 3 | Pass_49 | 9/29/1608 | SucreUser_ 22 | Pass_39 | 2/22/235 | PotosiUser_ 31 | Pass_19 | 12/15/1600 | BeniUser_ 56 | Pass_57 | 11/25/804 | La PazUser_ 32 | Pass_83 | 2/13/736 | Santa CruzUser_ 46 | Pass_73 | 7/5/856 | PandoUser_ 15 | Pass_4 | 4/24/310 | SucreUser_ 49 | Pass_4 | 3/14/1649 | CBBAUser_ 60 | Pass_63 | 12/4/622 | BeniUser_ 33 | Pass_91 | 3/20/1919 | SucreUser_ 49 | Pass_79 | 11/6/847 | TarijaUser_ 88 | Pass_76 | 10/12/1125 | PandoUser_ 72 | Pass_15 | 3/8/1266 | PotosiUser_ 56 | Pass_14 | 4/1/96 | OruroUser_ 85 | Pass_96 | 8/3/451 | PotosiUser_ 46 | Pass_30 | 12/10/368 | La PazUser_ 33 | Pass_99 | 10/28/668 | SucreUser_ 86 | Pass_91 | 9/27/1601 | PandoUser_ 12 | Pass_76 | 7/12/925 | PandoUser_ 39 | Pass_51 | 10/28/1078 | CBBAUser_ 32 | Pass_9 | 7/1/1937 | La PazUser_ 68 | Pass_48 | 5/17/1762 | BeniUser_ 27 | Pass_21 | 1/11/597 | La PazUser_ 99 | Pass_4 | 12/15/1825 | TarijaUser_ 76 | Pass_18 | 4/20/547 | Santa CruzUser_ 34 | Pass_87 | 12/17/360 | PotosiUser_ 4 | Pass_53 | 11/27/1912 | PandoUser_ 96 | Pass_95 | 4/3/1918 | SucreUser_ 21 | Pass_50 | 9/4/1490 | PandoUser_ 91 | Pass_42 | 6/3/157 | Santa CruzUser_ 30 | Pass_46 | 10/14/108 | OruroUser_ 4 | Pass_23 | 6/27/1447 | PotosiUser_ 64 | Pass_6 | 2/12/1628 | CBBAUser_ 47 | Pass_42 | 7/5/899 | Sucre
+User_ 55 | Pass_86 | 6/16/837 | Oruro
+User_ 72 | Pass_28 | 12/18/835 | Potosi
+User_ 17 | Pass_87 | 5/21/100 | Potosi
+User_ 3 | Pass_3 | 12/26/1597 | Pando
+User_ 15 | Pass_91 | 1/21/1876 | Sucre
+User_ 46 | Pass_66 | 4/20/1583 | Oruro
+User_ 11 | Pass_48 | 2/3/1657 | Santa Cruz
+User_ 20 | Pass_96 | 11/8/1958 | La Paz
+User_ 73 | Pass_76 | 12/3/1369 | Potosi
+User_ 80 | Pass_6 | 3/18/21 | CBBA
+User_ 62 | Pass_80 | 3/28/1617 | Oruro
+User_ 92 | Pass_15 | 3/18/1713 | Oruro
+User_ 53 | Pass_65 | 2/3/691 | Oruro
+User_ 56 | Pass_51 | 5/13/183 | CBBA
+User_ 77 | Pass_50 | 1/17/1822 | Potosi
+User_ 68 | Pass_40 | 7/18/807 | Potosi
+User_ 55 | Pass_26 | 9/20/1419 | Pando
+User_ 30 | Pass_92 | 10/25/1296 | Potosi
+User_ 3 | Pass_33 | 2/8/1648 | Potosi
+User_ 55 | Pass_77 | 2/22/287 | Beni
+User_ 53 | Pass_7 | 6/17/352 | La Paz
+User_ 92 | Pass_28 | 2/15/113 | Oruro
+User_ 67 | Pass_6 | 4/14/384 | Potosi
+User_ 25 | Pass_93 | 2/22/1159 | Oruro
+User_ 71 | Pass_44 | 12/23/632 | Beni
+User_ 48 | Pass_44 | 12/26/1751 | Tarija
+User_ 47 | Pass_72 | 2/23/804 | Pando
+User_ 78 | Pass_27 | 3/8/18 | Tarija
+User_ 93 | Pass_32 | 12/2/359 | Pando
+User_ 57 | Pass_75 | 6/18/1167 | Oruro
+User_ 43 | Pass_79 | 7/7/603 | Pando
+User_ 41 | Pass_60 | 7/16/480 | Oruro
+User_ 36 | Pass_33 | 9/1/1944 | Santa Cruz
+User_ 82 | Pass_73 | 2/8/865 | Oruro
+User_ 34 | Pass_15 | 12/2/742 | Santa Cruz
+User_ 83 | Pass_91 | 3/21/792 | Santa Cruz
+User_ 96 | Pass_12 | 7/8/1834 | Pando
+User_ 39 | Pass_36 | 8/24/495 | La Paz
+User_ 42 | Pass_92 | 9/22/1161 | Santa Cruz
+User_ 18 | Pass_31 | 6/19/242 | Santa Cruz
+User_ 50 | Pass_27 | 9/19/1528 | Beni
+User_ 53 | Pass_74 | 5/12/1271 | La Paz
+User_ 51 | Pass_20 | 4/4/1946 | Potosi
+User_ 24 | Pass_50 | 10/26/498 | Sucre
+User_ 18 | Pass_57 | 5/11/402 | Oruro
+User_ 57 | Pass_44 | 9/28/1904 | Tarija
+User_ 5 | Pass_27 | 7/25/380 | Sucre
+User_ 24 | Pass_49 | 1/19/422 | Tarija
+User_ 37 | Pass_55 | 12/6/1804 | Potosi
+User_ 52 | Pass_91 | 10/3/1359 | Beni
+User_ 53 | Pass_48 | 7/11/949 | Potosi
+User_ 44 | Pass_51 | 10/24/1704 | Sucre
+User_ 97 | Pass_65 | 10/5/1664 | Santa Cruz
+User_ 39 | Pass_76 | 10/8/744 | Pando
+User_ 86 | Pass_43 | 6/20/1086 | Sucre
+User_ 44 | Pass_12 | 9/21/722 | Potosi
+User_ 8 | Pass_34 | 5/8/545 | Tarija
+User_ 84 | Pass_64 | 5/26/563 | Tarija
+User_ 79 | Pass_4 | 10/24/469 | Pando
+User_ 45 | Pass_27 | 2/4/1388 | Pando
+User_ 86 | Pass_49 | 4/1/934 | Oruro
+User_ 4 | Pass_18 | 8/15/13 | Potosi
+User_ 67 | Pass_57 | 1/15/1258 | Oruro
+User_ 31 | Pass_93 | 6/29/1537 | Potosi
+User_ 46 | Pass_94 | 12/26/2016 | Pando
+User_ 61 | Pass_97 | 12/14/104 | La Paz
+User_ 100 | Pass_86 | 5/11/1366 | Tarija
+User_ 33 | Pass_92 | 9/12/1389 | Sucre
+User_ 57 | Pass_44 | 11/17/437 | La Paz
+User_ 23 | Pass_32 | 4/9/710 | Potosi
+User_ 48 | Pass_59 | 11/13/1536 | CBBA
+User_ 17 | Pass_94 | 11/23/1385 | Tarija
+User_ 34 | Pass_87 | 6/19/1642 | Beni
+User_ 71 | Pass_21 | 11/23/224 | La Paz
+User_ 71 | Pass_29 | 6/24/424 | Pando
+User_ 92 | Pass_82 | 5/18/1710 | Tarija
+User_ 85 | Pass_77 | 3/15/1011 | Potosi
+User_ 43 | Pass_85 | 6/25/701 | Sucre
+User_ 41 | Pass_77 | 5/1/1731 | Sucre
+User_ 64 | Pass_1 | 1/1/440 | Tarija
+User_ 21 | Pass_84 | 1/28/163 | Oruro
+User_ 97 | Pass_1 | 8/2/1698 | Potosi
+User_ 90 | Pass_6 | 12/29/1137 | CBBA
+User_ 50 | Pass_61 | 8/27/909 | CBBA
+User_ 44 | Pass_27 | 10/13/1341 | Potosi
+User_ 73 | Pass_85 | 2/28/1230 | CBBA
+User_ 68 | Pass_29 | 12/10/1380 | Sucre
+User_ 3 | Pass_97 | 4/20/1637 | Pando
+User_ 76 | Pass_29 | 6/11/1405 | Sucre
+User_ 51 | Pass_31 | 12/21/1246 | Pando
+User_ 24 | Pass_76 | 4/25/1729 | Oruro
+User_ 15 | Pass_68 | 1/2/614 | La Paz
+User_ 75 | Pass_22 | 4/5/1798 | Pando
+User_ 69 | Pass_96 | 3/21/416 | Tarija
+User_ 46 | Pass_63 | 1/28/1616 | Sucre
+User_ 97 | Pass_17 | 8/25/1704 | Tarija
+User_ 23 | Pass_34 | 5/4/794 | Beni
+User_ 30 | Pass_41 | 12/17/790 | Potosi
+User_ 93 | Pass_29 | 10/20/256 | Sucre
