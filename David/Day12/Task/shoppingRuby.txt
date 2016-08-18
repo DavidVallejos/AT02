@@ -1,0 +1,18 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Day12\Task>ruby shoppingRuby.rb
+Introduce a item
+agua
+Introduce a price
+5
+Introduce a quantity of agua
+10
+Item to buy:
+agua
+Quantity of agua to buy
+2
+{"agua"=>5}
+{"agua"=>8}
+{"agua"=>10}
+Balance of {"agua"=>8}
+{"agua"=>5}
+Quantity of product sold 2
+Price paid 10
