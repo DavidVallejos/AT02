@@ -1,1 +1,14 @@
-{1=>"dsa"}{1=>"dsa", 2=>"wqe"}{1=>"dsa", 2=>"wqe", 3=>"dsqwe"}{1=>"dsa", 2=>"wqe", 3=>"dsqwe", 4=>"weq"}{2=>"1"}{2=>"1", 3=>"weq"}{2=>"1", 3=>"weq", 4=>"saew"}{2=>"1", 3=>"weq", 4=>"saew", 1=>"qwe"}
+La cantidad de usuarios 15
+El hash de personas {2=>"32", 32=>"23", 23=>"233"}
+Tipo de conversion es 3
+32 en kilometros es: 0
+32 Quieres cambiar la conversion? SI/NO: 
+32
+Bye
+23 Quieres cambiar la conversion? SI/NO: 
+32
+Bye
+233 Quieres cambiar la conversion? SI/NO: 
+23
+Bye
+Personas que no quisieron cambiar conversion ["32", "23", "233"]

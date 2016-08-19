@@ -1,7 +1,22 @@
+module Convertions
+	def milimetro_centimetro numero
+		numero / 1000
+	end
+
+	def centimetro_metro numero
+		numero / 100
+	end
+
+	def metro_kilometro numero
+		numero / 100
+	end
+end
+
 require 'singleton'
 
 class Person
 	include Singleton
+	include Convertions
 
 	attr_writer :id, :name
 	attr_accessor :opcion, :array
@@ -9,14 +24,14 @@ class Person
 	def initialize
 		@id = nil
 		@name = nil
+		@hPerson = {}
+		@file = File.open('execution.log', 'w+')
+		@file.truncate(0)
 	end
 
 	def registro
-		file = File.open('execution.log', 'a+')
 
 		compare = false
-		@hPerson = {}
-
 		@cant = cantidad
 
 		@cant.times do
@@ -46,21 +61,17 @@ class Person
 
 			compare =  false
 			@hPerson.store @id, @name
-			file.write(@hPerson)
 		end
+		@file.write("El hash de personas #{@hPerson}\n")
 	end
 
 	def cantidad
-		validador = false
 		begin
 			puts "Introdusca la cantidad"
-			@cant = gets.chomp.to_i
-			if @cant <= 15 && @cant >= 3
-				validador = true
-			else
-				puts "Introdusca la cantidad correcta"
-		end while !validador
-		return @cant
+			cant = gets.chomp.to_i
+		end while cant < 3 || cant > 15
+		@file.write("La cantidad de usuarios #{cant}\n")
+		return cant
 	end
 
 	def tipo_conversion
@@ -78,51 +89,52 @@ class Person
 		end
 	end
 
-	def calculator
+	def calculador
 		val = tipo_conversion
+		@file.write("Tipo de conversion es #{val}\n")
 			case val
-				when val == 1 then
-				puts "Introduzca cantidad en Milimetros:"
-				num = gets.chomp.to_i
-				puts "#{num} en centimetros es: #{milimetro_centimetro num}"
-				when val == 2 then
-				puts "Introduzca cantidad en Centimetros:"
-				num = gets.chomp.to_i
-				puts "#{num} en metros es: #{centimetro_metro num}"
-				when val == 3 then
-				puts "Introduzca cantidad en Metros:"
-				num = gets.chomp.to_i
-				puts "#{num} en kilometros es: #{metro_kilometro num}"
+				when 1 then
+					puts "Introduzca cantidad en Milimetros:"
+					num = gets.chomp.to_i
+					puts f = "#{num} en centimetros es: #{milimetro_centimetro num}"
+				when 2 then
+					puts "Introduzca cantidad en Centimetros:"
+					num = gets.chomp.to_i
+					puts f = "#{num} en metros es: #{centimetro_metro num}"
+				when 3 then
+					puts "Introduzca cantidad en Metros:"
+					num = gets.chomp.to_i
+					puts f = "#{num} en kilometros es: #{metro_kilometro num}"
 			end
-		end
+			@file.write("#{f}\n")
 	end
 
 	def cambiar
-
-		cont = @hPerson.lenght
-		per = @hPerson.values
 		@array = []
-
-		cont.times do |index|
-			puts "#{per[index]} Quieres cambiar la conversion?"
-			opcion = gets.chomp
-			if option == "YES"
-				calculator
+		@hPerson.each do |key, value|
+			puts f = "#{value} Quieres cambiar la conversion? SI/NO: "
+			res = gets.chomp
+			@file.write("#{f}\n")
+			@file.write("#{res}\n")
+			if(res == "SI")
+				calculador
 			else
-				puts "Bye"
-				@array = per[index]
+				puts f = "Bye"
+				@file.write("Bye\n")
+				@array.push(value)
 			end
 		end
 		return @array
 	end
 
-	def print_sin
+	def print_sin array
+		@file.write("Personas que no quisieron cambiar conversion #{array}\n")
 		p @array
-		file.write(@array)
+		@file.close
 	end
 end
 
 person = Person.instance
 person.registro
 person.calculador
-person.print_sin
+person.print_sin(person.cambiar)
