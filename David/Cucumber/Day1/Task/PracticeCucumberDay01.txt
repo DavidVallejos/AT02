@@ -1,0 +1,69 @@
+Research :
+
+When and why BDD was defined
+
+	Behavior-driven development (or BDD) is an agile software development technique 
+	that encourages collaboration between developers, QA and non-technical or business 
+	participants in a software project. It was originally named in 2003 by Dan North 
+	as a response to test-driven development (TDD), including acceptance test or 
+	customer test driven development practices as found in extreme programming.
+	BDD focuses on obtaining a clear understanding of desired software behavior through 
+	discussion with stakeholders. It extends TDD by writing test cases in a natural 
+	language that non-programmers can read.
+	Behavior-driven development was developed by Dan North as a response to the issues encountered teaching test-driven development:
+
+	Where to start in the process
+	What to test and what not to test
+	How much to test in one go
+	What to call the tests
+	How to understand why a test fails
+
+The most important aspects of BDD
+	~Involving stakeholders in the implementation process through outside–in software development
+	~Using examples to describe the behavior of the application, or of units of code
+	~Automating those examples to provide quick feedback and regression testing
+
+Why is useful and when could be applied.
+
+	~Collaboration
+	~Simple Specification
+	~Easy Feedback
+	~Avoid rework in requirements definition
+	~Self decumentation
+	~Focus on behavior
+
+Which type of teams could implement BDD
+
+	The teams that work with agile metodologies and Spiral model.
+
+Structure of a feature – Give an example
+The Structure is:
+		~Name:			|	Release BD
+		~Size (optional)	|	
+		~Priority		|	50
+
+Structure of a user story – Give an example
+The Structure is:
+		~Title				|	Release BD
+		~Narrative			|	As a Scrum Master
+			*As a [role]		|	I want to see release DB chart drawn by weeks
+			*I want [feature]	|	So that I can benefit from DB chart
+			*So that [benefit]	|
+Structure of a scenario – Give an example
+The Structure is:
+		~Given		|	Given a customer previously bought a pant from me and I currenly have three pants left in stock
+		~When		|	he returns the pant for a refund
+		~Then		|	then I should have four pant in stock
+
+Differences between BDD and BDT
+
+	It involves getting stakeholders and delivery team with different perspectives
+	onto the same page and ensuring that all have the same expectations.
+	BDD starts with a business goal and goal that translates to features and
+	stories.
+
+	The goal of BDT is a business readable and domain specific language that allows
+	 you to describe a system’s behavior without detailing how that behavior is implemented.
+
+	In BDT, Tests in the form of plain text features descriptions with scenarios are 
+	typically written before anything else and verified by the non-technical stakeholders.
