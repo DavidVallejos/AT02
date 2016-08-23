@@ -1,0 +1,19 @@
+# Run a feature with --dry-run
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber\features>cucumber addNewCostumer.feature --dry-run
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+0 scenarios
+0 steps
+
+# Run a feature without --dry-run
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber\features>cucumber addNewCostumer.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+0 scenarios
+0 steps
+0m0.000s
+
+
+# Which one is the difference between both executions?
+
+When you run the feature without --dry-run, this add a time that get to run the feature

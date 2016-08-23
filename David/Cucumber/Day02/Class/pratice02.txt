@@ -1,0 +1,71 @@
+C:\Users\ArielVallejos>gem install cucumber
+Fetching: cucumber-wire-0.0.1.gem (100%)
+Successfully installed cucumber-wire-0.0.1
+Fetching: multi_test-0.1.2.gem (100%)
+Successfully installed multi_test-0.1.2
+Fetching: multi_json-1.12.1.gem (100%)
+Successfully installed multi_json-1.12.1
+Fetching: gherkin-4.0.0.gem (100%)
+Successfully installed gherkin-4.0.0
+Fetching: diff-lcs-1.2.5.gem (100%)
+Successfully installed diff-lcs-1.2.5
+Fetching: builder-3.2.2.gem (100%)
+Successfully installed builder-3.2.2
+Fetching: cucumber-core-1.5.0.gem (100%)
+Successfully installed cucumber-core-1.5.0
+Fetching: cucumber-2.4.0.gem (100%)
+Successfully installed cucumber-2.4.0
+Parsing documentation for cucumber-wire-0.0.1
+Installing ri documentation for cucumber-wire-0.0.1
+Parsing documentation for multi_test-0.1.2
+Installing ri documentation for multi_test-0.1.2
+Parsing documentation for multi_json-1.12.1
+Installing ri documentation for multi_json-1.12.1
+Parsing documentation for gherkin-4.0.0
+Installing ri documentation for gherkin-4.0.0
+Parsing documentation for diff-lcs-1.2.5
+Installing ri documentation for diff-lcs-1.2.5
+Parsing documentation for builder-3.2.2
+Installing ri documentation for builder-3.2.2
+Parsing documentation for cucumber-core-1.5.0
+Installing ri documentation for cucumber-core-1.5.0
+Parsing documentation for cucumber-2.4.0
+Installing ri documentation for cucumber-2.4.0
+Done installing documentation for cucumber-wire, multi_test, multi_json, gherkin, diff-lcs, builder, cucumber-core, cucumber after 24 seconds
+8 gems installed
+
+C:\Users\ArielVallejos>gem list
+
+*** LOCAL GEMS ***
+
+bigdecimal (1.2.6)
+builder (3.2.2)
+cucumber (2.4.0)
+cucumber-core (1.5.0)
+cucumber-wire (0.0.1)
+diff-lcs (1.2.5)
+gherkin (4.0.0)
+io-console (0.4.3)
+json (1.8.1)
+minitest (5.4.3)
+multi_json (1.12.1)
+multi_test (0.1.2)
+power_assert (0.2.2)
+psych (2.0.8)
+rake (10.4.2)
+rdoc (4.2.0)
+test-unit (3.0.8)
+
+C:\Users\ArielVallejos>gem search -l minitest
+
+*** LOCAL GEMS ***
+
+minitest (5.4.3)
+
+C:\Users\ArielVallejos>gem uninstall cucumber
+Remove executables:
+        cucumber
+
+in addition to the gem? [Yn]  y
+Removing cucumber
+Successfully uninstalled cucumber-2.4.0
