@@ -1,0 +1,31 @@
+# Create a feature file with 1 scenario that is going to contain :
+#Steps for preconditions/results where you can send only two possible options
+
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\login.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+#©Copyright 2016 David Vallejos
+#All rights reserved.
+#@David.vallejos@gmail.com
+Feature: Login with an acount
+        Feature to log in a page
+
+  Scenario: Login                            # features/login.feature:7
+    Given I select Sign in                   # features/login.feature:8
+    Given I select Create and account        # features/login.feature:9
+    When I see a message Login succesful     # features/step_definitions/step_login.rb:5
+    But I see a message You are not register # features/step_definitions/step_login.rb:5
+    Then I can clic on the button next       # features/step_definitions/step_login.rb:9
+
+1 scenario (1 undefined)
+5 steps (3 skipped, 2 undefined)
+0m0.060s
+
+You can implement step definitions for undefined steps with these snippets:
+
+Given(/^I select Sign in$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^I select Create and account$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
