@@ -1,0 +1,23 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\airport.feature
+#AcCopyright 2016 David Vallejos
+#All rights reserved.
+#@David.vallejos@gmail.com
+Feature: Airport departure
+
+  Scenario: Lounge Screen                     # features/airport.feature:6
+    Given the flight AZ4567 is leaving today  # features/step_definitions/step_airport.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_airport.rb:2:in `/^the flight ([A-Z+]*\d+) is leaving today$/'
+      features/airport.feature:7:in `Given the flight AZ4567 is leaving today'
+    When i see on the screen is on            # features/step_definitions/step_airport.rb:5
+    Then i should go to the departure         # features/step_definitions/step_airport.rb:9
+    Given the flight C038 is leaving today    # features/step_definitions/step_airport.rb:1
+    When i see on the screen is on            # features/step_definitions/step_airport.rb:5
+    Then i should go to the departure         # features/step_definitions/step_airport.rb:9
+    Given the flight BA01618 is leaving today # features/step_definitions/step_airport.rb:1
+    When i see on the screen is on            # features/step_definitions/step_airport.rb:5
+    Then i should go to the departure         # features/step_definitions/step_airport.rb:9
+
+1 scenario (1 pending)
+9 steps (8 skipped, 1 pending)
+0m0.177s

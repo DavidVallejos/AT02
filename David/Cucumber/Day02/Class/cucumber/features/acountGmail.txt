@@ -1,0 +1,79 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\acountGmail.feature
+#AcCopyright 2016 David Vallejos
+#All rights reserved.
+#@David.vallejos@gmail.com
+Feature: Create a new acount on Gmail
+
+  Scenario: Introduce first name                # features/acountGmail.feature:6
+    Given My cursor is on the box of first name # features/step_definitions/step_newGmail.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_newGmail.rb:2:in `/^My cursor is on the box of first name$/'
+      features/acountGmail.feature:7:in `Given My cursor is on the box of first name'
+    When I put a name david                     # features/step_definitions/step_newGmail.rb:5
+    And press put tab                           # features/step_definitions/step_newGmail.rb:9
+    Then I see a green mark around the box      # features/step_definitions/step_newGmail.rb:13
+
+  Scenario: Introduce last name                # features/acountGmail.feature:12
+    Given My cursor is on the box of last name # features/step_definitions/step_newGmail.rb:17
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_newGmail.rb:18:in `/^My cursor is on the box of last name$/'
+      features/acountGmail.feature:13:in `Given My cursor is on the box of last name'
+    When I put a last name vallejos            # features/step_definitions/step_newGmail.rb:21
+    And press put tab                          # features/step_definitions/step_newGmail.rb:9
+    Then I see a green mark around the box     # features/step_definitions/step_newGmail.rb:13
+
+  Scenario: Choose a username                               # features/acountGmail.feature:18
+    Given My cursor is on the box of the acount             # features/step_definitions/step_newGmail.rb:25
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_newGmail.rb:26:in `/^My cursor is on the box of the acount$/'
+      features/acountGmail.feature:19:in `Given My cursor is on the box of the acount'
+    When I put a acount like dav.23second or merch_first323 # features/acountGmail.feature:20
+    Then I see a green mark to accept my username           # features/step_definitions/step_newGmail.rb:33
+
+  Scenario: Create a password                     # features/acountGmail.feature:23
+    Given My cursor is on password                # features/step_definitions/step_newGmail.rb:37
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_newGmail.rb:38:in `/^My cursor is on password$/'
+      features/acountGmail.feature:24:in `Given My cursor is on password'
+    When I put a password that acept weq2314ASD   # features/step_definitions/step_newGmail.rb:41
+    And I put confirm password                    # features/step_definitions/step_newGmail.rb:45
+    Then I see a green mark to accept my password # features/step_definitions/step_newGmail.rb:49
+
+  Scenario: Choose a birthday                   # features/acountGmail.feature:29
+    Given I choose my month                     # features/acountGmail.feature:30
+    And I put day                               # features/acountGmail.feature:31
+    And I put a year                            # features/acountGmail.feature:32
+    When I choose one of the 12 months          # features/step_definitions/step_newGmail.rb:65
+    And I put a day of 1 to 30                  # features/acountGmail.feature:34
+    And I put a year 1999                       # features/step_definitions/step_newGmail.rb:73
+    Then I see a geen mark to accept my birthay # features/step_definitions/step_newGmail.rb:77
+
+  Scenario: Choose a gender                          # features/acountGmail.feature:38
+    Given I choose gener                             # features/step_definitions/step_newGmail.rb:81
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_newGmail.rb:82:in `/^I choose gener$/'
+      features/acountGmail.feature:39:in `Given I choose gener'
+    When I choose Male Female or Other               # features/acountGmail.feature:40
+    Then I see a green mark that verify I choose one # features/step_definitions/step_newGmail.rb:89
+
+  Scenario: Put a phone number                 # features/acountGmail.feature:43
+    Given I choose a country                   # features/step_definitions/step_newGmail.rb:93
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_newGmail.rb:94:in `/^I choose a country$/'
+      features/acountGmail.feature:44:in `Given I choose a country'
+    And I put a cell number                    # features/step_definitions/step_newGmail.rb:97
+    When I choose Bolivia flag                 # features/step_definitions/step_newGmail.rb:101
+    And I put a number 78974624                # features/step_definitions/step_newGmail.rb:105
+    Then I see geen mark that accept my number # features/step_definitions/step_newGmail.rb:109
+
+  Scenario: Put a current email                                                      # features/acountGmail.feature:50
+    Given My cursor is on the box of current email                                   # features/step_definitions/step_newGmail.rb:113
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_newGmail.rb:114:in `/^My cursor is on the box of current email$/'
+      features/acountGmail.feature:51:in `Given My cursor is on the box of current email'
+    When I put a acount like dav.23second@gmail.com or merch_first323@outlook.com.bo # features/acountGmail.feature:52
+    Then I see a green mark to accept my username                                    # features/step_definitions/step_newGmail.rb:33
+
+8 scenarios (1 undefined, 7 pending)
+33 steps (19 skipped, 7 undefined, 7 pending)
+0m0.762s

@@ -1,0 +1,28 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\google.feature
+#AcCopyright 2016 David Vallejos
+#All rights reserved.
+#@David.vallejos@gmail.com
+Feature: Test of Google Main Page
+        Create scenaries for test a main page of the google
+
+  Scenario:                                   # features/google.feature:7
+    Given i am on the maing page              # features/google.feature:8
+    When i clic on the browser                # features/google.feature:9
+    And put url www.google.com                # features/google.feature:10
+    Then i should see the main page of google # features/google.feature:11
+
+  Scenario:                                         # features/google.feature:13
+    Given i search a music                          # features/google.feature:14
+    When i clic on the search bar from google       # features/google.feature:15
+    And i write music                               # features/google.feature:16
+    And i to put on Search button                   # features/google.feature:17
+    Then i should see a specific numbers of results # features/google.feature:18
+
+  Scenario:                                                                                       # features/google.feature:20
+    Given i go to the conditions                                                                  # features/google.feature:21
+    When i clic on the Conditions botton                                                          # features/google.feature:22
+    Then i should have the url https://www.google.com.bo/intl/es-419/policies/terms/regional.html # features/google.feature:23
+
+3 scenarios (3 undefined)
+12 steps (12 undefined)
+0m0.238s

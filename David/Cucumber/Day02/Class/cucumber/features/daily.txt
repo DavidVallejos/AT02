@@ -1,0 +1,12 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\daily.feature
+#AcCopyright 2016 David Vallejos
+#All rights reserved.
+#@David.vallejos@gmail.com
+Feature: Take a breakfast
+        Scenaries of my daily activities
+
+  Scenario:  # features/daily.feature:7
+
+1 scenario (1 passed)
+0 steps
+0m0.056s

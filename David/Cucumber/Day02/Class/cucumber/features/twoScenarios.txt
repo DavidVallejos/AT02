@@ -1,0 +1,33 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\twoScenarios.feature
+#AcCopyright 2016 David Vallejos
+#All rights reserved.
+#@David.vallejos@gmail.com
+Feature: Practice two scenaries
+Write a feature file that contains 2 scenarios, each one with steps that need a step definition with:
+1. Question mark modified for singular and plurar
+2. Multiple captures of data
+3. Noncapturing group
+
+  Scenario: Add two numbers             # features/twoScenarios.feature:11
+    Given I have powered calculator on  # features/step_definitions/step_twoScenarios.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_twoScenarios.rb:2:in `/^I have powered calculator on$/'
+      features/twoScenarios.feature:12:in `Given I have powered calculator on'
+    When I enter 50 into the calculator # features/step_definitions/step_twoScenarios.rb:5
+    And I enter 70 into the calculator  # features/step_definitions/step_twoScenarios.rb:5
+    And I press add                     # features/step_definitions/step_twoScenarios.rb:9
+    Then I would see on the screen      # features/step_definitions/step_twoScenarios.rb:13
+
+  Scenario: Buy toys                    # features/twoScenarios.feature:18
+    Given I have 100$ on my credit card # features/step_definitions/step_twoScenarios.rb:17
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_twoScenarios.rb:18:in `/^I have (\d+)\$ on my (credit card|pant)$/'
+      features/twoScenarios.feature:19:in `Given I have 100$ on my credit card'
+    And I have 50$ on my pant           # features/step_definitions/step_twoScenarios.rb:17
+    When I buy a toys for my daugther   # features/step_definitions/step_twoScenarios.rb:21
+    And I buy a toy for my son          # features/step_definitions/step_twoScenarios.rb:21
+    Then I have 0$ of money             # features/step_definitions/step_twoScenarios.rb:25
+
+2 scenarios (2 pending)
+10 steps (8 skipped, 2 pending)
+0m0.269s

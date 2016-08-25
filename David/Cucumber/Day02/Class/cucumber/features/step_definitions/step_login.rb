@@ -1,11 +1,11 @@
 #Se debe ejecutar con los comandos:
 #C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\login.feature
 
-Given(/^I select ("Sign in"||"Create and account")$/) do
+Given(/^I select ("Sign in"|"Create and account")$/) do |var|
   pending # Write code here that turns the phrase above into concrete actions
 end
 
-When(/^I see a message (Login succesful||You are not register)$/) do
+When(/^I see a message (Login succesful|You are not register)$/) do |var|
   pending # Write code here that turns the phrase above into concrete actions
 end
 
