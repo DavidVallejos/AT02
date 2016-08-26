@@ -1,0 +1,34 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\backgroundActivities.feature
+Feature: Nice Week
+  That week when I have time to go out of home
+  and have a nice week
+
+  Background: Leaving home    # features/backgroundActivities.feature:5
+    Given I have a time       # features/step_definitions/step_backgroundActivities.rb:1
+    When I clean my car       # features/step_definitions/step_backgroundActivities.rb:5
+    Then I should get the car # features/step_definitions/step_backgroundActivities.rb:9
+
+  Scenario: Go to park                           # features/backgroundActivities.feature:10
+    Given I do not have money                    # features/step_definitions/step_backgroundActivities.rb:13
+    When I think on a free parks around my house # features/step_definitions/step_backgroundActivities.rb:17
+    Then I should choose a park is closer        # features/step_definitions/step_backgroundActivities.rb:21
+
+  Scenario: Go to the market           # features/backgroundActivities.feature:15
+    Given I have shopping list like:   # features/step_definitions/step_backgroundActivities.rb:25
+      | Product | Quantity |
+      | bread   | 20       |
+      | wine    | 2        |
+      | water   | 10       |
+      | soap    | 5        |
+    When I can change wine and 2       # features/step_definitions/step_backgroundActivities.rb:29
+    Then shopping list loks like this: # features/step_definitions/step_backgroundActivities.rb:34
+      [["Product", "Quantity"], ["bread", "20"], ["wine", "2"], ["water", "10"], ["soap", "5"]]
+      | Product | Quantity |
+      | bread   | 20       |
+      | wine    | 2        |
+      | water   | 10       |
+      | soap    | 5        |
+
+2 scenarios (2 passed)
+12 steps (12 passed)
+0m0.307s

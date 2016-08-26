@@ -1,0 +1,24 @@
+C:\Users\ArielVallejos\Documents\BDT\Repositorio\AT02\David\Cucumber\Day02\Class\cucumber>cucumber features\backgroundExample.feature
+Feature: User management
+
+  Background: Go to My profile # features/backgroundExample.feature:2
+    Given I login application  # features/step_definitions/step_backgroundExample.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/step_backgroundExample.rb:2:in `/^I login application$/'
+      features/backgroundExample.feature:3:in `Given I login application'
+    When I click on User icon  # features/step_definitions/step_backgroundExample.rb:5
+    Then I see My profile      # features/step_definitions/step_backgroundExample.rb:9
+
+  Scenario: Change user picture          # features/backgroundExample.feature:7
+    Given I select change picture        # features/step_definitions/step_backgroundExample.rb:13
+    When I select a new image from my pc # features/step_definitions/step_backgroundExample.rb:17
+    Then I see new picture loaded        # features/step_definitions/step_backgroundExample.rb:21
+
+  Scenario: Change user password           # features/backgroundExample.feature:13
+    Given I select change password         # features/step_definitions/step_backgroundExample.rb:25
+    When I save my new password            # features/step_definitions/step_backgroundExample.rb:29
+    Then I should see confirmation message # features/step_definitions/step_backgroundExample.rb:33
+
+2 scenarios (2 pending)
+12 steps (10 skipped, 2 pending)
+0m0.179s
