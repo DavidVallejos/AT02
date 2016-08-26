@@ -19,10 +19,10 @@ Feature: Nice Week
     |wine|2|
     |water|10|
     |soap|5|
-    When I can change wine and 2
+    When I can change wine and 3
     Then shopping list loks like this:
     |Product|Quantity|
     |bread|20|
-    |wine|2|
+    |wine|3|
     |water|10|
     |soap|5|

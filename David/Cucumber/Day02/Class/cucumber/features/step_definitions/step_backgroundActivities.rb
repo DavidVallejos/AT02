@@ -28,7 +28,7 @@ end
 
 When(/^I can change (\w+) and (\d+)$/) do |name, quantity|
   quantity = quantity.to_i
-  @list[2][quantity-1] = quantity.to_s
+  @list[2][1] = quantity.to_s
 end
 
 Then(/^shopping list loks like this:$/) do |table|
