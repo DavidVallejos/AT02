@@ -9,3 +9,7 @@ After('~@normal', '~@outline')  do |scenario|
    	 puts "Bye Bye it Passed"
   end
 end
+
+Before do
+	Users.load_users
+end
