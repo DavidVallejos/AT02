@@ -12,4 +12,5 @@ end
 
 Before do
 	Users.load_users
+	$list = Users.get_list_of_users(Users.load_users)
 end

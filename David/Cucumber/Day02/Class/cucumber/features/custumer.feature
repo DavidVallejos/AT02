@@ -6,6 +6,7 @@ Scenario: Load users from yml file
 	When I verify patricio exist
 		And I verify estefano does not exist
 	Then I print a list from users
+	
 @normal
 Scenario: Print static custumer
 	Given I seach client pablo
