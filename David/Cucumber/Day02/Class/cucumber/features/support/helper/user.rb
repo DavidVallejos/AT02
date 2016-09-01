@@ -1,5 +1,5 @@
 module Users
-
+	
 	def Users.load_users
 		@custumer = {'patricio' => "123admin", 'petunio' => "123user", 'florencio' => "123client"}
 	end
